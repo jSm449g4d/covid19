@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
     "date": "2020\/9\/7 19:15",
+=======
+    "date": "2020\/9\/11 19:15",
+>>>>>>> ups/development
     "data": [
         {
             "diagnosed_date": "2020-01-23",
@@ -679,7 +683,7 @@
         },
         {
             "diagnosed_date": "2020-07-10",
-            "count": 221
+            "count": 222
         },
         {
             "diagnosed_date": "2020-07-11",
@@ -727,11 +731,11 @@
         },
         {
             "diagnosed_date": "2020-07-22",
-            "count": 398
+            "count": 399
         },
         {
             "diagnosed_date": "2020-07-23",
-            "count": 291
+            "count": 295
         },
         {
             "diagnosed_date": "2020-07-24",
@@ -743,15 +747,15 @@
         },
         {
             "diagnosed_date": "2020-07-26",
-            "count": 109
+            "count": 110
         },
         {
             "diagnosed_date": "2020-07-27",
-            "count": 241
+            "count": 242
         },
         {
             "diagnosed_date": "2020-07-28",
-            "count": 275
+            "count": 276
         },
         {
             "diagnosed_date": "2020-07-29",
@@ -759,11 +763,11 @@
         },
         {
             "diagnosed_date": "2020-07-30",
-            "count": 406
+            "count": 408
         },
         {
             "diagnosed_date": "2020-07-31",
-            "count": 477
+            "count": 480
         },
         {
             "diagnosed_date": "2020-08-01",
@@ -815,7 +819,7 @@
         },
         {
             "diagnosed_date": "2020-08-13",
-            "count": 432
+            "count": 434
         },
         {
             "diagnosed_date": "2020-08-14",
@@ -839,7 +843,7 @@
         },
         {
             "diagnosed_date": "2020-08-19",
-            "count": 299
+            "count": 300
         },
         {
             "diagnosed_date": "2020-08-20",
@@ -879,7 +883,7 @@
         },
         {
             "diagnosed_date": "2020-08-29",
-            "count": 182
+            "count": 183
         },
         {
             "diagnosed_date": "2020-08-30",
@@ -891,7 +895,7 @@
         },
         {
             "diagnosed_date": "2020-09-01",
-            "count": 164
+            "count": 165
         },
         {
             "diagnosed_date": "2020-09-02",
@@ -899,10 +903,11 @@
         },
         {
             "diagnosed_date": "2020-09-03",
-            "count": 161
+            "count": 163
         },
         {
             "diagnosed_date": "2020-09-04",
+<<<<<<< HEAD
             "count": 157
         },
         {
@@ -912,6 +917,37 @@
         {
             "diagnosed_date": "2020-09-06",
             "count": 43
+=======
+            "count": 170
+        },
+        {
+            "diagnosed_date": "2020-09-05",
+            "count": 151
+        },
+        {
+            "diagnosed_date": "2020-09-06",
+            "count": 67
+        },
+        {
+            "diagnosed_date": "2020-09-07",
+            "count": 111
+        },
+        {
+            "diagnosed_date": "2020-09-08",
+            "count": 203
+        },
+        {
+            "diagnosed_date": "2020-09-09",
+            "count": 240
+        },
+        {
+            "diagnosed_date": "2020-09-10",
+            "count": 141
+        },
+        {
+            "diagnosed_date": "2020-09-11",
+            "count": 2
+>>>>>>> ups/development
         }
     ]
 }
